@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/afolabiafolayan.github.io.git/static/css/main.f855e6bc.css",
+    "main.js": "/afolabiafolayan.github.io.git/static/js/main.b84590c9.js",
+    "static/js/453.ada858fa.chunk.js": "/afolabiafolayan.github.io.git/static/js/453.ada858fa.chunk.js",
+    "static/media/logo.svg": "/afolabiafolayan.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/afolabiafolayan.github.io.git/index.html",
+    "main.f855e6bc.css.map": "/afolabiafolayan.github.io.git/static/css/main.f855e6bc.css.map",
+    "main.b84590c9.js.map": "/afolabiafolayan.github.io.git/static/js/main.b84590c9.js.map",
+    "453.ada858fa.chunk.js.map": "/afolabiafolayan.github.io.git/static/js/453.ada858fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b84590c9.js"
+  ]
+}
