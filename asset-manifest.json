@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/afolabiafolayan.github.io/static/css/main.713859e3.css",
-    "main.js": "/afolabiafolayan.github.io/static/js/main.32c5ea9e.js",
-    "static/js/453.ada858fa.chunk.js": "/afolabiafolayan.github.io/static/js/453.ada858fa.chunk.js",
-    "index.html": "/afolabiafolayan.github.io/index.html",
-    "main.713859e3.css.map": "/afolabiafolayan.github.io/static/css/main.713859e3.css.map",
-    "main.32c5ea9e.js.map": "/afolabiafolayan.github.io/static/js/main.32c5ea9e.js.map",
-    "453.ada858fa.chunk.js.map": "/afolabiafolayan.github.io/static/js/453.ada858fa.chunk.js.map"
+    "main.css": "/afolabiafolayan/static/css/main.76ef7a08.css",
+    "main.js": "/afolabiafolayan/static/js/main.a723f7d5.js",
+    "static/js/453.ada858fa.chunk.js": "/afolabiafolayan/static/js/453.ada858fa.chunk.js",
+    "static/media/WhatsApp Image 2024-09-14 at 11.32.51.png": "/afolabiafolayan/static/media/WhatsApp Image 2024-09-14 at 11.32.51.cb4da9bdd38572cb4ef2.png",
+    "static/media/CV Resume.pdf": "/afolabiafolayan/static/media/CV Resume.cb8d3102d9bcb2051eeb.pdf",
+    "index.html": "/afolabiafolayan/index.html",
+    "main.76ef7a08.css.map": "/afolabiafolayan/static/css/main.76ef7a08.css.map",
+    "main.a723f7d5.js.map": "/afolabiafolayan/static/js/main.a723f7d5.js.map",
+    "453.ada858fa.chunk.js.map": "/afolabiafolayan/static/js/453.ada858fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.713859e3.css",
-    "static/js/main.32c5ea9e.js"
+    "static/css/main.76ef7a08.css",
+    "static/js/main.a723f7d5.js"
   ]
 }
